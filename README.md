@@ -22,4 +22,4 @@
 </div>  
 ![](https://github.com/GustavoPontess/GustavoPontess/blob/output/github-contribution-grid-snake.svg)
   
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/GustavoPontess/snk/raw/output/github-contribution-grid-snake.svg)
