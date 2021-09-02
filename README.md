@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oiii! Eu sou o Gustavo Pontes 
 
 
 - 🔭 Hoje eu sou estudante
