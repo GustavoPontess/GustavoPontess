@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu sou estudante
-- 🌱 Estudando: Marketing
+- 🌱 Estudando: Marketing digital - gestao de trafego
 - 😄 Pronouns: ele/dele
 
 <div>
