@@ -7,6 +7,6 @@
 
 <div>
   <a herf="https://github.com/GustavoPontess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoPontess)](https://github.com/anuraghazra/github-readme-stats" />
 
 </div>
