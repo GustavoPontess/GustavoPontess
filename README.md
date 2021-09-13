@@ -7,8 +7,8 @@
 
 <div>
   <a herf="https://github.com/GustavoPontess">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoPontess&show_icons=true&theme=tokyonight"/>  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPontess&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GustavoPontess&show_icons=true&theme=tokyonight"/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPontess&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  ##
  
