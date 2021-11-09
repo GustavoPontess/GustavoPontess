@@ -1,10 +1,4 @@
 ### Oiii! Eu sou o Gustavo Pontes 
-
-
-- 🔭 Hoje eu sou estudante
-- 🌱 Estudando: Marketing digital - gestao de trafego
-- 😄 Pronouns: ele/dele
-
 <div>
   <a herf="https://github.com/GustavoPontess">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoPontess&show_icons=true&theme=tokyonight"/>  
