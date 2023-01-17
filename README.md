@@ -1,5 +1,10 @@
 ### Oiii! Eu sou o Gustavo Pontes 
   
+  <div>
+  <a herf="https://github.com/GustavoPontess">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoPontess&show_icons=true&theme=tokyonight"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPontess&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
  ##
  
 <div>
