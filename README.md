@@ -1,10 +1,11 @@
 ### Oiii! Eu sou o Gustavo Pontes 
   
-  <div>
-  <a herf="https://github.com/GustavoPontess">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoPontess&show_icons=true&theme=tokyonight"/>  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPontess&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoPontess&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPontess&layout=compact&theme=tokyonight" />
+  </a>
   
  ##
  
