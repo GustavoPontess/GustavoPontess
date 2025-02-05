@@ -24,8 +24,7 @@
 ---
 
 ## 📂 **Projetos Recentes**
-🔹 [**CRUD Windows Forms**](https://github.com/GustavoPontess/3C1GUSTAVO15) – CRUD utilizando **C# Windows Forms** e **MySQL**.  
-🔹 [**Projeto Exemplo**](https://github.com/GustavoPontess/Projeto-Exemplo) – Descrição breve sobre este projeto.  
+🔹 [**CRUD Windows Forms**](https://github.com/GustavoPontess/3C1GUSTAVO15) – CRUD utilizando **C# Windows Forms** e **MySQL**. 
 
 💡 **Veja mais projetos no meu perfil:** [Repositórios](https://github.com/GustavoPontess?tab=repositories)
 
